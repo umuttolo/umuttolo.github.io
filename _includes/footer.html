@@ -2,8 +2,9 @@
   <div class="footer-contact">
     <h2>Get in touch</h2>
     <p>If you are interested in my work, want to exchange views or collaborate, I would be more than happy to talk to you. Just send me an email at <a href="mailto:{{ site.data.profile.email }}">{{ site.data.profile.email }}</a>.</p>
-    <a class="social-link" href="{{ site.data.profile.twitter }}">Twitter / X <span aria-hidden="true">↗</span></a>
   </div>
-  <p class="languages"><span lang="tr">bana Türkçe yazabilirsiniz</span> · <span lang="it">potete scrivermi in italiano</span> · <span lang="el">γράψτε μου στα ελληνικά</span> · <span lang="fr">écrivez-moi en français</span> · <span lang="es">podéis escribirme en español</span> · <span lang="ca">podeu escriure’m en català</span></p>
-  <div class="footer-bottom"><span>{{ site.data.profile.name | escape }}</span><a href="{{ site.data.profile.cv.file | relative_url }}">Curriculum vitae <span aria-hidden="true">↗</span></a></div>
+  <div class="footer-bottom">
+    <span>{{ site.data.profile.name | escape }}</span>
+    <a href="{{ site.data.profile.cv.file | relative_url }}">Curriculum vitae <span aria-hidden="true">↗</span></a>
+  </div>
 </footer>
