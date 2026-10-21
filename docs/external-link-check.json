@@ -1,0 +1,92 @@
+[
+  {
+    "url": "http://twitter.com/umuttolo",
+    "response": "520 http://twitter.com/umuttolo",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://academic.oup.com/jids/article/17/1/idag013/8696224",
+    "response": "403 https://academic.oup.com/jids/article/17/1/idag013/8696224",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://ir.bilkent.edu.tr/",
+    "response": "200 https://ir.bilkent.edu.tr/",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://journals.sagepub.com/doi/10.1177/00220027241305076",
+    "response": "403 https://journals.sagepub.com/doi/10.1177/00220027241305076",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://jura.ku.dk/icourts/",
+    "response": "200 https://jura.ku.dk/icourts/",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://link.springer.com/article/10.1007/s11558-024-09545-4",
+    "response": "200 https://link.springer.com/article/10.1007/s11558-024-09545-4?error=cookies_not_supported&code=05b97108-74de-4fe5-96df-62fd89a3b105",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://link.springer.com/referenceworkentry/10.1007/978-3-319-68846-6_667-1",
+    "response": "200 https://link.springer.com/rwe/10.1007/978-3-319-68846-6_667-1?error=cookies_not_supported&code=ad75f809-4ce9-47d8-8a2b-65f4c5a27bc0",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://politicalscience.stanford.edu/",
+    "response": "200 https://politicalscience.stanford.edu/",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.cambridge.org/core/journals/german-law-journal/article/understanding-the-limitations-of-behavioralism-lessons-from-the-field-of-maritime-delimitation/EB8D00C4955F4A0FE9314D25B487543D",
+    "response": "200 https://www.cambridge.org/core/journals/german-law-journal/article/understanding-the-limitations-of-behavioralism-lessons-from-the-field-of-maritime-delimitation/EB8D00C4955F4A0FE9314D25B487543D",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.graduateinstitute.ch/globalgovernance",
+    "response": "200 https://www.graduateinstitute.ch/globalgovernance",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.ibei.org/ca",
+    "response": "403 https://www.ibei.org/ca",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003426080-9/legal-uncertainty-making-maritime-boundaries-umut-y%C3%BCksel?context=ubx&refId=60e8089d-1d4a-484d-9d28-5116bbb8bdc0",
+    "response": "200 https://www.taylorfrancis.com/chapters/oa-edit/10.4324/9781003426080-9/legal-uncertainty-making-maritime-boundaries-umut-y%C3%BCksel?context=ubx&refId=60e8089d-1d4a-484d-9d28-5116bbb8bdc0",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.ucl.ac.uk/social-historical-sciences/political-science",
+    "response": "403 https://www.ucl.ac.uk/social-historical-sciences/political-science",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.upf.edu/web/dret",
+    "response": "403 https://www.upf.edu/web/dret",
+    "exit_code": 0,
+    "error": ""
+  },
+  {
+    "url": "https://www.upf.edu/web/politiques",
+    "response": "403 https://www.upf.edu/web/politiques",
+    "exit_code": 0,
+    "error": ""
+  }
+]

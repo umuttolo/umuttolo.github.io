@@ -1,0 +1,5 @@
+<li class="publication">
+  <h3>{% if include.item.url %}<a href="{{ include.item.url | escape }}">{{ include.item.title | escape }}</a>{% else %}{{ include.item.title | escape }}{% endif %}</h3>
+  {% if include.item.coauthors %}<p class="coauthors">With {{ include.item.coauthors | escape }}</p>{% endif %}
+  <p class="publication-details"><cite>{{ include.item.venue | escape }}</cite>{% if include.item.details %}, {{ include.item.details | escape }}{% endif %}{% if include.item.status %}<span class="publication-status">{{ include.item.status | escape }}</span>{% endif %}</p>
+</li>

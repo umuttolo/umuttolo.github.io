@@ -1,0 +1,29 @@
+title: Umut Yüksel
+description: Research on international security, international organizations, international law, and domestic politics.
+url: "https://umuttolo.github.io"
+baseurl: ""
+lang: en
+timezone: Europe/Madrid
+markdown: kramdown
+permalink: pretty
+strict_front_matter: true
+collections:
+  projects:
+    output: false
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - docs
+  - scripts
+  - vendor
+  - .bundle
+  - .github
+  - .gitignore
+  - .ruby-version
+  - _artifacts
